@@ -1,15 +1,16 @@
-<xml>
+<bugReport>
 	<ID>1</ID>
-	<Project>"esculab.com"</Project>
-	<Summary>"The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page"</Summary>
-	<Actual result>"The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page"</Actual result>
-	<Expected result>"The colour of the 'Get result' button text becomes white when the cursor is hovered over the service page"</Expected result>
-	<Pre-conditions>"Open the service page. Example https://..."</Pre-conditions>
-	<Steps_to_reproduce>"Place the cursor on the 'Get result' button"</Steps_to_reproduce>
-	<Environment>"macOS BigSur v:11.2.3 Google Chrome v:94.0.4606.71 (x86_64)"</Environment>
-	<Severity>"Trivial"</Severity>
-	<Priority>:"Low"</Priority>
-	<Status>:"Submitted"</Status>
-	<Attachments>"Video link"</Attachments>
-	<Workaround>"No"</Workaround>
-	<Reproducibility>"Always"</Reproducibility>
+	<Project>esculab.com</Project>
+	<Summary>The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page</Summary>
+	<Actual result>The text colour of the 'Get result' button merges with the background colour of the button when the cursor is hovered over the service page</Actual result>
+	<Expected result>The colour of the 'Get result' button text becomes white when the cursor is hovered over the service page</Expected result>
+	<Pre-conditions>Open the service page. Example https://...</Pre-conditions>
+	<Steps_to_reproduce>Place the cursor on the 'Get result' button</Steps_to_reproduce>
+	<Environment>macOS BigSur v:11.2.3 Google Chrome v:94.0.4606.71 (x86_64)</Environment>
+	<Severity>Trivial</Severity>
+	<Priority>Low</Priority>
+	<Status>Submitted</Status>
+	<Attachments>Video link</Attachments>
+	<Workaround>No</Workaround>
+	<Reproducibility>Always</Reproducibility>
+</bugReport>
